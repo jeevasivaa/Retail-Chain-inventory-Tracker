@@ -63,6 +63,6 @@ This project includes:
 This project is created for academic purposes. You are free to use and modify with proper credit.
 ---
 
-👉 You just need to save this as `README.md` in the **root folder** of your GitHub repo.  
+
 
 
